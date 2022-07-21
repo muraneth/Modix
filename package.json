@@ -1,0 +1,22 @@
+{
+  "name": "modix",
+  "version": "1.0.0",
+  "description": "modix",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muraneth/Modix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muraneth/Modix/issues"
+  },
+  "homepage": "https://github.com/muraneth/Modix#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
